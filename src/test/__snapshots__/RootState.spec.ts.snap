@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RootState should build root state 1`] = `
+Object {
+  "entities": [Function],
+  "pages": [Function],
+}
+`;

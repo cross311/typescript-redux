@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "sourceMap": true,
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "target": "es5",
+    "experimentalDecorators": true,
+    "lib": ["es2017"],
+    "declaration": true
+  },
+  "include": ["src/**/*.ts"]
+}
